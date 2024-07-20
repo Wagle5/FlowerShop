@@ -1,0 +1,4 @@
+Flower: rose, Quantity: 5, Total Price: 50.0
+Flower: jasmine, Quantity: 7, Total Price: 56.0
+Flower: violet, Quantity: 10, Total Price: 125.0
+Flower: lily, Quantity: 10, Total Price: 80.0
